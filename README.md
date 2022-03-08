@@ -61,7 +61,7 @@
 
 
 <h3 align="left">Quick Response:</h3>
-<a href="amdanielbryte@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" style="max-width: 100%;" /></a>
+<a href="mailto:amdanielbryte@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" style="max-width: 100%;" /></a>
 <a href="https://linkedin.com/in/danielbryte" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="danielbryte" style="max-width: 100%;" /></a>
 <a href="https://twitter.com/amdanielbryte" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amdanielbryte" style="max-width: 100%;" /></a>
 
