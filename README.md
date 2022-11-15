@@ -3,17 +3,13 @@
   
 <h3 align="center">Daniel Bryte</h3>
   
-<h4 align="center">A passionate frontend web developer and tech influencer from Nigeria.</h4>
+<h4 align="center">A passionate web and mobile developer and tech influencer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbryte&label=Profile%20views&color=0e75b6&style=flat" alt="danielbryte" /></p>
 
-- 🔭 A web developer. 
-
 - 🔭 I’m presently working on [Techgruv](https://www.techgruv.co/)
 
-- 🌱 I’m currently learning **Python for backend and web development, Flutter(Dart) and ReactJS.**
-
-- 🔭I’m looking for you, thanks for viewing my profile, subscribe to my YouTube channel.
+- 🌱 I’m currently learning **Flutter(Dart) and ReactJS.**
 
 - 📫 My email **amdanielbryte@gmail.com**
 
