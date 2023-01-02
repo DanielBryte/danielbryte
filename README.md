@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter(Dart) and ReactJS.**
 
-- 📫 My email **amdanielbryte@gmail.com**
+- 📫 My email **ezedinirudaniel@gmail.com**
 
 - ⚡ Fun fact **Addicted to my pc and smartphone, i just want to impact lives positively.**
 
