@@ -7,9 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbryte&label=Profile%20views&color=0e75b6&style=flat" alt="danielbryte" /></p>
 
-- 🔭 I’m presently working on [Techgruv](https://www.techgruv.co/)
-
-- 🌱 I’m currently learning **Flutter(Dart) and ReactJS.**
+- 🔭 I’m presently open for Frontend Dev, UI/UX Design,and Content Creator roles(https://www.techgruv.co/)
 
 - 📫 My email **ezedinirudaniel@gmail.com**
 
