@@ -3,11 +3,11 @@
   
 <h3 align="center">Daniel Bryte</h3>
   
-<h4 align="center">A passionate web, mobile developer and tech influencer.</h4>
+<h4 align="center">A passionate web, mobile developer and product designer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbryte&label=Profile%20views&color=0e75b6&style=flat" alt="danielbryte" /></p>
 
-- 🔭 I’m presently open for Frontend Dev, UI/UX Design,and Content Creator roles(https://www.techgruv.co/)
+- 🔭 I’m presently open for Frontend Dev, UI/UX Design,and Content Creator roles(https://www.ezedinirudaniel.me/)
 
 - 📫 My email **ezedinirudaniel@gmail.com**
 
@@ -53,7 +53,7 @@
 
 
 <h3 align="left">Quick Response:</h3>
-<a href="mailto:amdanielbryte@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" style="max-width: 100%;" /></a>
+<a href="mailto:ezedinirudaniel@gmail.com" target="blank"><img align="center" src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" style="max-width: 100%;" /></a>
 <a href="https://linkedin.com/in/danielbryte" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="danielbryte" style="max-width: 100%;" /></a>
 <a href="https://twitter.com/amdanielbryte" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="amdanielbryte" style="max-width: 100%;" /></a>
 
