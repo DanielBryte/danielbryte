@@ -11,7 +11,7 @@
 
 - 📫 My email **ezedinirudaniel@gmail.com**
 
-- ⚡ Fun fact **Addicted to my pc and smartphone, i just want to impact lives positively.**
+- ⚡ Fun fact **Addicted to my pc and smartphone, I just want to impact lives positively.**
 
 
 ### Social Profiles:
@@ -43,7 +43,6 @@
 ![Dart](https://img.shields.io/static/v1?style=for-the-badge&message=Dart&color=0175C2&logo=Dart&logoColor=FFFFFF&label=)
 ![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
-![Supabase](https://img.shields.io/static/v1?style=for-the-badge&message=Supabase&color=222222&logo=Supabase&logoColor=3ECF8E&label=)
 <a href="https://www.python.org/">![Python](https://img.shields.io/static/v1?style=for-the-badge&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF&label=)</a>
 <a href="https://figma.com">![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)</a>
 
