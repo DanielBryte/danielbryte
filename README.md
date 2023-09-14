@@ -3,7 +3,7 @@
   
 <h3 align="center">Daniel Bryte</h3>
   
-<h4 align="center">A passionate web, mobile developer and product designer.</h4>
+<h4 align="center">A Frontend Engineer and Product designer.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danielbryte&label=Profile%20views&color=0e75b6&style=flat" alt="danielbryte" /></p>
 
